@@ -1,6 +1,6 @@
 # wordpress-transient
 
-In this little snippet of code we can see how to cache the *get_posts()* in wordpress,
+In this snippet of code we can see how to cache the *get_posts()* in wordpress,
 
 so whenever a user opens the page, it first checks if there is any transient,
 
